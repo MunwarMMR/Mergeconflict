@@ -1,3 +1,5 @@
 HEllo Munnas this is munwar shaik's world
 netstat -a -n -o | find "4000" > C:\Documents and Settings\MunwarAdmin\Desktop\Merges\Example.txt
 hello how are you
+hi thiscommand is to stop the running process to terminate the process using 
+the processe id and initiate the other process running
